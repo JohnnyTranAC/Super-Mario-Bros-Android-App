@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="square_color" format="color" />
+        <attr name="square_size" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="ItemsView">
+        <attr name="item_color" format="color" />
+        <attr name="item_size" format="dimension"/>
+    </declare-styleable>
+
+</resources>

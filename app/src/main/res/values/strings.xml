@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Super Mario Bros</string>
+    <string name="title">𝕊𝕦𝕡𝕒 𝕀𝕥𝕒𝕝𝕚𝕒𝕟 𝔹𝕣𝕠𝕥𝕙𝕖𝕣𝕤</string>
+    <string name="Play">ℙ𝕝𝕒𝕪</string>
+
+    <string name="L_Button">L_Button</string>
+    <string name="R_Button">R_Button</string>
+    <string name="Jump">Jump</string>
+    <string name="x_Button">x_Button</string>
+    <string name="y_Button">y_Button</string>
+
+    <string name="Score">𝕊𝕔𝕠𝕣𝕖</string>
+    <string name="Lives">𝕃𝕚𝕧𝕖𝕤</string>
+
+    <string name="Score_Status">𝕊𝕔𝕠𝕣𝕖 %1$s</string>
+    <string name="Lives_Status">𝕃𝕚𝕧𝕖𝕤 %1$s</string>
+</resources>
